@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\bin\Debug\net6.0\RandomList.exe
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\bin\Debug\net6.0\RandomList.deps.json
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\bin\Debug\net6.0\RandomList.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\bin\Debug\net6.0\RandomList.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\bin\Debug\net6.0\RandomList.pdb
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\RandomList.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\RandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\RandomList.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\RandomList.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\RandomList.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\RandomList.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\refint\RandomList.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\RandomList.pdb
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\RandomList.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\RandomList\obj\Debug\net6.0\ref\RandomList.dll

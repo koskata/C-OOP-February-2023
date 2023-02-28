@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.exe
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.deps.json
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\bin\Debug\net6.0\SingleInheritance.pdb
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\refint\SingleInheritance.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.pdb
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\SingleInheritance.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\SingleInheritance\obj\Debug\net6.0\ref\SingleInheritance.dll

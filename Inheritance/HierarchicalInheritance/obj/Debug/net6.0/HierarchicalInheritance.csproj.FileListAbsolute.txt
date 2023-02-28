@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.exe
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.deps.json
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.pdb
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\refint\HierarchicalInheritance.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.pdb
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\HierarchicalInheritance\obj\Debug\net6.0\ref\HierarchicalInheritance.dll

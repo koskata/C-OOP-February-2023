@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.exe
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.deps.json
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\bin\Debug\net6.0\StackOfStrings.pdb
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\refint\StackOfStrings.dll
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.pdb
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\StackOfStrings.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Inheritance - Lab\StackOfStrings\obj\Debug\net6.0\ref\StackOfStrings.dll

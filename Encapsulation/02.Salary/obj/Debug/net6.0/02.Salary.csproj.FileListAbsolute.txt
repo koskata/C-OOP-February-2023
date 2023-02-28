@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\bin\Debug\net6.0\02.Salary.exe
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\bin\Debug\net6.0\02.Salary.deps.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\bin\Debug\net6.0\02.Salary.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\bin\Debug\net6.0\02.Salary.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\bin\Debug\net6.0\02.Salary.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\02.Salary.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\02.Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\02.Salary.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\02.Salary.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\02.Salary.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\02.Salary.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\refint\02.Salary.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\02.Salary.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\02.Salary.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\02.Salary\obj\Debug\net6.0\ref\02.Salary.dll

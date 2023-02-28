@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\bin\Debug\net6.0\03.Validation.exe
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\bin\Debug\net6.0\03.Validation.deps.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\bin\Debug\net6.0\03.Validation.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\bin\Debug\net6.0\03.Validation.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\bin\Debug\net6.0\03.Validation.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\03.Validation.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\03.Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\03.Validation.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\03.Validation.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\03.Validation.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\refint\03.Validation.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\03.Validation.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\03.Validation.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Lab\03.Validation\obj\Debug\net6.0\ref\03.Validation.dll

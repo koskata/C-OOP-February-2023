@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.exe
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.deps.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\bin\Debug\net6.0\04.PizzaCalories.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\refint\04.PizzaCalories.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\04.PizzaCalories.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\04.PizzaCalories\obj\Debug\net6.0\ref\04.PizzaCalories.dll

@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.exe
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.deps.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\bin\Debug\net6.0\03.ShoppingSpree.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\refint\03.ShoppingSpree.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\03.ShoppingSpree.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\03.ShoppingSpree\obj\Debug\net6.0\ref\03.ShoppingSpree.dll

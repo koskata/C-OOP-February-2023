@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\bin\Debug\net6.0\01.ClassBoxData2.exe
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\bin\Debug\net6.0\01.ClassBoxData2.deps.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\bin\Debug\net6.0\01.ClassBoxData2.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\bin\Debug\net6.0\01.ClassBoxData2.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\bin\Debug\net6.0\01.ClassBoxData2.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\01.ClassBoxData2.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\01.ClassBoxData2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\01.ClassBoxData2.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\01.ClassBoxData2.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\01.ClassBoxData2.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\01.ClassBoxData2.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\refint\01.ClassBoxData2.dll
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\01.ClassBoxData2.pdb
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\01.ClassBoxData2.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Encapsulation - Exercise\01.ClassBoxData2\obj\Debug\net6.0\ref\01.ClassBoxData2.dll

@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.exe
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.deps.json
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.dll
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\bin\Debug\net6.0\01.DefineanInterfaceIPerson.pdb
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.dll
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\refint\01.DefineanInterfaceIPerson.dll
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.pdb
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\01.DefineanInterfaceIPerson.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\01.DefineanInterfaceIPerson\obj\Debug\net6.0\ref\01.DefineanInterfaceIPerson.dll

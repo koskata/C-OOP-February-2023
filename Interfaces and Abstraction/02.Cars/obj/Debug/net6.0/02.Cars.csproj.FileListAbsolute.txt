@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\02.Cars.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\02.Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\02.Cars.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\02.Cars.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\02.Cars.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\bin\Debug\net6.0\02.Cars.exe
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\bin\Debug\net6.0\02.Cars.deps.json
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\bin\Debug\net6.0\02.Cars.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\bin\Debug\net6.0\02.Cars.dll
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\bin\Debug\net6.0\02.Cars.pdb
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\02.Cars.dll
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\refint\02.Cars.dll
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\02.Cars.pdb
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\02.Cars.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\02.Cars\obj\Debug\net6.0\ref\02.Cars.dll

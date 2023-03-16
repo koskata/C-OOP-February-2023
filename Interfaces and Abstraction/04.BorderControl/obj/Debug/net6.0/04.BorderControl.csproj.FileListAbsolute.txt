@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.exe
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.deps.json
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.dll
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\bin\Debug\net6.0\04.BorderControl.pdb
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.dll
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\refint\04.BorderControl.dll
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.pdb
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\04.BorderControl.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Interfaces and Abstraction\04.BorderControl\obj\Debug\net6.0\ref\04.BorderControl.dll

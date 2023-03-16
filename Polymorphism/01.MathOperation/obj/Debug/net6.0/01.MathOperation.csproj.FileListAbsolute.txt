@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.exe
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.deps.json
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.dll
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\bin\Debug\net6.0\01.MathOperation.pdb
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.dll
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\refint\01.MathOperation.dll
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.pdb
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\01.MathOperation.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\01.MathOperation\obj\Debug\net6.0\ref\01.MathOperation.dll

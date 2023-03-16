@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.exe
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.deps.json
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.dll
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.pdb
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.dll
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\refint\02.Animals.dll
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.pdb
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Polymorphism - Lab\02.Animals\obj\Debug\net6.0\ref\02.Animals.dll

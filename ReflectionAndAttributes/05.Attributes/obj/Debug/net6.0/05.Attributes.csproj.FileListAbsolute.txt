@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\bin\Debug\net6.0\05.Attributes.exe
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\bin\Debug\net6.0\05.Attributes.deps.json
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\bin\Debug\net6.0\05.Attributes.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\bin\Debug\net6.0\05.Attributes.dll
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\bin\Debug\net6.0\05.Attributes.pdb
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\05.Attributes.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\05.Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\05.Attributes.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\05.Attributes.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\05.Attributes.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\05.Attributes.dll
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\refint\05.Attributes.dll
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\05.Attributes.pdb
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\05.Attributes.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Reflection and Attributes - Lab\05.Attributes\obj\Debug\net6.0\ref\05.Attributes.dll

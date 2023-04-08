@@ -1,0 +1,15 @@
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\bin\Debug\net6.0\BookingApp.exe
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\bin\Debug\net6.0\BookingApp.deps.json
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\bin\Debug\net6.0\BookingApp.runtimeconfig.json
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\bin\Debug\net6.0\BookingApp.dll
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\bin\Debug\net6.0\BookingApp.pdb
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\BookingApp.csproj.AssemblyReference.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\BookingApp.AssemblyInfoInputs.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\BookingApp.AssemblyInfo.cs
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\BookingApp.dll
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\refint\BookingApp.dll
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\BookingApp.pdb
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\BookingApp.genruntimeconfig.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Exams\Exam - 22 08 2022\Skeleton\obj\Debug\net6.0\ref\BookingApp.dll

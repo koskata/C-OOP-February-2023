@@ -1,0 +1,15 @@
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.AssemblyReference.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton - Tests\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll

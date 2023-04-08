@@ -1,0 +1,15 @@
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\bin\Debug\net6.0\RobotService.exe
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\bin\Debug\net6.0\RobotService.deps.json
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\bin\Debug\net6.0\RobotService.runtimeconfig.json
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\bin\Debug\net6.0\RobotService.dll
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\bin\Debug\net6.0\RobotService.pdb
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\RobotService.dll
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\refint\RobotService.dll
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\RobotService.pdb
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+C:\Users\konst\OneDrive\Работен плот\SoftUni Presentations and Exercises\C# OOP\C# OOP Regular Exam\Skeleton\obj\Debug\net6.0\ref\RobotService.dll
